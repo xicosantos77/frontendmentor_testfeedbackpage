@@ -10,13 +10,23 @@ body {
   align-items: center;
   height: 100vh;
 }
+@media (max-width: 375px) {
+  body {
+    align-items: flex-start;
+  }
+}
 
 section {
   background-color: white;
-  width: 500px;
   display: flex;
   border-radius: 20px;
   box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
+}
+@media (max-width: 375px) {
+  section {
+    flex-direction: column;
+    max-width: 100%;
+  }
 }
 
 .results, .summary {
@@ -24,6 +34,12 @@ section {
   padding: 30px;
   display: flex;
   flex-direction: column;
+}
+@media (max-width: 375px) {
+  .results, .summary {
+    width: 88.5%;
+    padding: 20px;
+  }
 }
 
 .results {
