@@ -12,7 +12,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 -   [My process](#my-process)
     -   [Built with](#built-with)
     -   [What I learned](#what-i-learned)
--   [Author](#author)
+-   [Author](#author)git
 
 ### Screenshot
 
@@ -20,7 +20,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://github.com/xicosantos77/testfeedbackpage)
+-   Solution URL: [Add solution URL here](https://frontendmentor-testfeedbackpage-kh42.vercel.app/)
 
 ## My process
 
