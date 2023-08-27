@@ -20,7 +20,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://frontendmentor-testfeedbackpage-kh42.vercel.app/)
+-   Solution URL: [On Vercel](https://frontendmentor-testfeedbackpage-kh42.vercel.app/)
 
 ## My process
 
