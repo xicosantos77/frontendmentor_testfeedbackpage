@@ -38,3 +38,5 @@ I have added javascript to the file, where it is possible to generate the code d
 ### What I learned
 
 Learned some JS commands in what concerns creating new content inside the HTML.
+
+I had some trouble in uploading all the folders containing all the elements so I just decided to put them all in the same folder in order to correct the problem and updates the links in the JSON, CSS and HTML files. (Any help on that subject would be welcome)
